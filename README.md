@@ -1,2 +1,17 @@
 # data-science-handbook
 Curated list of resources to advance your analytics in Data Science. In the right way. 
+
+
+
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="sd">Headers</a>
+
+sdsds
+## Time Series 
+One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.>
+One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.One possible (semi-automated) solution is Eugene Kalinin's github-markdown-toc. This tool essentially crunches through your README.md file and snarfs out #'s headings to create a TOC.
+
+## sd
