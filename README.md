@@ -8,15 +8,23 @@ Some links require incognito mode.
 ## Contents
 
 - [What and why](#what-and-why)
-- [The "doing" file](#the-doing-file)
+- [Statistics](#Statistics)
+- [Hypothesis Testing](#Hypothesis-Testing)
+- [Machine Learning](#Machine-Learning)
 - [Timeseries](#Timeseries)
 - [Evaluation](#Evaluation)
 
-# Machine Learning 
+# Statistics
+- [Q-Q plot](https://towardsdatascience.com/q-q-plots-explained-5aa8495426c0): To find the type of distribution for a random variable and whether it forms a Normal Distribution.
+
+
+# Hypothesis-Testing
+- [F-test in regression analysis](https://towardsdatascience.com/fisher-test-for-regression-analysis-1e1687867259): To determine whether a complex model is better than a simpler version of the same model in explaining the variance in the dependent variable.
+
+# Machine-Learning 
 - [Linear Regression](https://towardsdatascience.com/assumptions-of-linear-regression-5d87c347140): Underlying assumptions before using regression.
 
 # Timeseries
-- 
 - [Var Model & LSTM](https://www.youtube.com/watch?v=_vQ0W_qXMxk&feature=youtu.be): Multivariate analysis talk. 
 
 # Evaluation
