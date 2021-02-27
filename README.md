@@ -18,6 +18,7 @@ Some links require incognito mode. <img src='https://static-cdn.jtvnw.net/emotic
 - [Q-Q plot](https://towardsdatascience.com/q-q-plots-explained-5aa8495426c0): To determine if two data sets come from populations with a common distribution, in most cases whether it forms a Normal Distribution.
 - [Bootstrap](https://medium.com/swlh/bootstrap-sampling-using-pythons-numpy-85822d868977): The bootstrap method involves iteratively resampling a dataset with replacement.
 - [Jackknife](https://towardsdatascience.com/resampling-methods-for-inference-analysis-e75fecfefcb2): Jackknife resampling technique is based on creating samples by systematically leaving one observation out in the original dataset.
+- [Skewness](https://medium.com/dev-genius/skewness-and-kurtosis-in-data-science-aa795ba4b453): Data skewness analysis and transformation techniques to make distribution into normal distrubtion. 
 - [Degrees of Freedom](http://sites.utexas.edu/sos/degreesfreedom/): Number of values in the final calculation of a statistic that are free to vary. In short, It represent the number of points of control of a system, model, or calculation.
 
 # Hypothesis-Testing
@@ -31,7 +32,7 @@ Some links require incognito mode. <img src='https://static-cdn.jtvnw.net/emotic
 
 # Timeseries
 - [Cointegration](https://medium.com/ro-data-team-blog/measuring-correlation-ii-cointegration-for-time-series-analysis-f0f5e6f65f5): Synthetic stationary series from a linear combination of two or more non-stationary series.
-- [Var Model & LSTM](https://www.youtube.com/watch?v=_vQ0W_qXMxk&feature=youtu.be): Multivariate analysis talk. 
+- [Var Model & LSTM](https://www.youtube.com/watch?v=_vQ0W_qXMxk&feature=youtu.be): Multivariate analysis talk.
 
 # Evaluation
 - [Metrics](https://towardsdatascience.com/forecast-kpi-rmse-mae-mape-bias-cdc5703d242d): Understanding criteria for KPI and pitfall of validation metrics. (ie. MAPE, MAE, ... etc.)
