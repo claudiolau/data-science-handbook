@@ -20,7 +20,7 @@ Some links require incognito mode. <img src='https://static-cdn.jtvnw.net/emotic
 - [Jackknife](https://towardsdatascience.com/resampling-methods-for-inference-analysis-e75fecfefcb2): Jackknife resampling technique is based on creating samples by systematically leaving one observation out in the original dataset.
 - [Skewness](https://medium.com/dev-genius/skewness-and-kurtosis-in-data-science-aa795ba4b453): Data skewness analysis and transformation techniques to make distribution into normal distrubtion. 
 - [Degrees of Freedom](http://sites.utexas.edu/sos/degreesfreedom/): Number of values in the final calculation of a statistic that are free to vary. In short, It represent the number of points of control of a system, model, or calculation.
-
+- [Correlation & Causaulity](http://www.degeneratestate.org/posts/2018/Mar/24/causal-inference-with-python-part-1-potential-outcomes/): Correlation != Causation, prove statistical significance before accepting correlation criteria.
 # Hypothesis-Testing
 - [General Testing](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce): Basic hypothesis Testing.
 - [A/B Testing](https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/): A/B testing is a basic randomized control experiment. It is a way to compare the two versions of a variable to find out which performs better in a controlled environment.
@@ -29,12 +29,16 @@ Some links require incognito mode. <img src='https://static-cdn.jtvnw.net/emotic
 
 # Machine-Learning 
 - [Linear Regression](https://towardsdatascience.com/assumptions-of-linear-regression-5d87c347140): Underlying assumptions before using regression.
-
+- [ML in 100 pages](http://themlbook.com/wiki/doku.php): Years of experience in the Machine Learning and Artificial Intelligence world condensed into 100 beautifully written pages.
+- [ML & Tensorflow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf): Fundemental to ML and tensorflow basics.
 # Timeseries
 - [Cointegration](https://medium.com/ro-data-team-blog/measuring-correlation-ii-cointegration-for-time-series-analysis-f0f5e6f65f5): Synthetic stationary series from a linear combination of two or more non-stationary series.
-- [Var Model & LSTM](https://www.youtube.com/watch?v=_vQ0W_qXMxk&feature=youtu.be): Multivariate analysis talk.
+- [Time Series Tutorial](https://www.youtube.com/watch?v=_vQ0W_qXMxk&feature=youtu.be): Multivariate analysis on VAR model and LTSM. 
+- [Timeseries Guide](https://www.machinelearningplus.com/time-series/time-series-analysis-python/): Preparatory step before you develop a forecast of the series.
+- [ARIMA & SARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/): Step to step guide to building time series. 
+- [VAR](https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/#:~:text=Ok%2C%20so%20how%20is%20VAR,the%20variables%20influence%20each%20other.): A forecasting algorithm that can be used when two or more time series influence each other.
 
 # Evaluation
 - [Metrics](https://towardsdatascience.com/forecast-kpi-rmse-mae-mape-bias-cdc5703d242d): Understanding criteria for KPI and pitfall of validation metrics. (ie. MAPE, MAE, ... etc.)
 - [Probalistic Model Selection](https://stats.stackexchange.com/questions/577/is-there-any-reason-to-prefer-the-aic-or-bic-over-the-other): Differences between AIC or BIC, tradeoff between simple and complex models.
-- [Time Series Crossfold valdiation](https://medium.com/@soumyachess1496/cross-validation-in-time-series-566ae4981ce4):Time dependent cross validation.
+- [Time Series Crossfold valdiation](https://medium.com/@soumyachess1496/cross-validation-in-time-series-566ae4981ce4): Time dependent cross validation.
